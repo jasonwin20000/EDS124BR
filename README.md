@@ -5,3 +5,4 @@
 ## Nested Repeats Code Explanation - https://www.youtube.com/watch?v=eXO-7_diEpc
 ## Events Code Explanation - https://www.youtube.com/watch?v=yw4nEVwHym8
 ## Variables Code Explanation - https://www.youtube.com/watch?v=yrCAklhBIGs 
+## Conditional Loops Code Explanation - https://www.youtube.com/watch?v=SdRJxDz0wCg
