@@ -1,5 +1,6 @@
 # EDS124BR - Jason Win
-## If Else Code Explanation - https://www.youtube.com/watch?v=eZVHn4quPPg
+## Nested If/Else Code Explanation - https://www.youtube.com/watch?v=DvpTvZ-QIp4
+## If/Else Code Explanation - https://www.youtube.com/watch?v=eZVHn4quPPg
 ## Conditional Loops Code Explanation - https://www.youtube.com/watch?v=SdRJxDz0wCg
 ## Variables Code Explanation - https://www.youtube.com/watch?v=yrCAklhBIGs 
 ## Events Code Explanation - https://www.youtube.com/watch?v=yw4nEVwHym8
