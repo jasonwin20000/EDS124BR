@@ -1,4 +1,5 @@
 # EDS124BR - Jason Win
+## Lists Code Explanation - https://www.youtube.com/watch?v=ayervC08kXE
 ## Abstraction Code Explanation - https://www.youtube.com/watch?v=k3R6YWPhC1I
 ## Compound Conditionals Code Explanation - https://www.youtube.com/watch?v=1zUQ1bKahk4
 ## Nested If/Else Code Explanation - https://www.youtube.com/watch?v=DvpTvZ-QIp4
